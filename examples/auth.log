@@ -1,0 +1,10 @@
+Jan  5 02:14:01 web01 sshd[1001]: Failed password for root from 203.0.113.7 port 51001 ssh2
+Jan  5 02:14:03 web01 sshd[1002]: Failed password for root from 203.0.113.7 port 51002 ssh2
+Jan  5 02:14:05 web01 sshd[1003]: Failed password for root from 203.0.113.7 port 51003 ssh2
+Jan  5 02:14:07 web01 sshd[1004]: Failed password for root from 203.0.113.7 port 51004 ssh2
+Jan  5 02:14:09 web01 sshd[1005]: Failed password for root from 203.0.113.7 port 51005 ssh2
+Jan  5 02:14:11 web01 sshd[1006]: Failed password for root from 203.0.113.7 port 51006 ssh2
+Jan  5 09:31:00 web01 sshd[1100]: Accepted password for alice from 198.51.100.20 port 40001 ssh2
+Jan  5 09:35:00 web01 sshd[1101]: Accepted password for bob from 198.51.100.20 port 40002 ssh2
+Jan  5 09:40:00 web01 sshd[1102]: Accepted password for carol from 198.51.100.20 port 40003 ssh2
+Jan  5 09:45:00 web01 sshd[1103]: Accepted password for dave from 198.51.100.20 port 40004 ssh2
